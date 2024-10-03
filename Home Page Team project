@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Office Minions AI</title>
+     <link rel="stylesheet" href="home.css">
+     <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+</head>
+<body>
+   
+   <!-- Body -->
+    <h1 id="Top">The World Of AI</h1>
+    <p id="Title"> Welcome Home</p>
+    
+    <!--Menu Bar-->
+    <ul>
+        <li>Home</li>
+        <li>Info</li>
+        <li>FAQ</li>
+        <li>About Us</li>
+        <li>Contact Us</li>
+    </ul>
+    
+    <!--Website Explanation-->
+    <h2>What is this Website For?</h2>
+    <p>This is a website based on the explaration of AI and trying to understand all facets of it and how it will affect us. We hope you the user will learn something from this site</p>
+    
+    <!--Pictures Go here-->
+    <figure></figure>
+    <figcaption></figcaption>
+  
+    <aside>
+            <article class="popular-recipes">
+                <h2>What is AI?</h2>
+                <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI Wiki</a>
+                <a href="https://cloud.google.com/discover/what-is-supervised-learning">Surpurvised Learning</a>
+                <a href="https://cloud.google.com/discover/what-is-unsupervised-learning">Unsupervised Learning</a>
+                <a href="https://aws.amazon.com/what-is/reinforcement-learning/#:~:text=Reinforcement%20learning%20(RL)%20is%20a,achieve%20the%20most%20optimal%20results.">Reinforcement Learning</a>
+            </article>
+    <!--Text Section-->
+ 
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/J4RqCSD--Dg?si=PnfYmMYwtPwO0VXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    <p><a href="#top"> Go to Top</a></p>
+     <footer>
+        <hr>
+        Copyright &copy; Office Minions 2024
+    </footer>
+</body>
+</html>
